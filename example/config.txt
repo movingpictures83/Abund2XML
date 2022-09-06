@@ -1,0 +1,2 @@
+Prefix plugins/Abund2XML/example/
+Plugin Abund2XML inputfile parameters.txt outputfile output.xml
